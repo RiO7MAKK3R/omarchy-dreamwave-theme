@@ -24,6 +24,4 @@ btop	System monitor theme with lo-fi blue accents and soft gradients for CPU, me
 Alacritty	Terminal color scheme blending blues, violets, and magentas for a dreamy yet readable experience.
 Walker	Hyprland menu and popup panels styled with frosted glass blues, rounded borders, and soft selection highlights.
 
-![image alt](https://github.com/RiO7MAKK3R/omarchy-dreamwave-theme/blob/main/backgrounds/bg1.jpg)
-![image alt](https://github.com/RiO7MAKK3R/omarchy-dreamwave-theme/blob/main/backgrounds/bg2.jpg)
-![image alt](https://github.com/RiO7MAKK3R/omarchy-dreamwave-theme/blob/main/backgrounds/bg3.jpg)
+![image alt]()
