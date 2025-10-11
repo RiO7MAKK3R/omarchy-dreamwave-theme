@@ -16,7 +16,7 @@ Designed for Neovim, Alacritty, btop, and Hyprland Walker menus, Dreamwave provi
 
 ---
 
-### 🎨 Color Palette
+### Color Palette
 
 #### Base Colors
 
@@ -54,7 +54,7 @@ Designed for Neovim, Alacritty, btop, and Hyprland Walker menus, Dreamwave provi
 
 ---
 
-### 🌙 Features
+### Features
 
 - **Dreamy Blur & Glow:** Subtle glassy transparency for menus and status bars  
 - **Lo-fi Gradients:** Gentle color flow for CPU, memory, and net graphs in `btop`  
@@ -64,7 +64,7 @@ Designed for Neovim, Alacritty, btop, and Hyprland Walker menus, Dreamwave provi
 
 ---
 
-### 🧩 Components Included
+### Components Included
 
 | Component | Description |
 |------------|-------------|
@@ -77,7 +77,7 @@ Designed for Neovim, Alacritty, btop, and Hyprland Walker menus, Dreamwave provi
 
 ---
 
-### ⚙️ Installation
+### Installation
 
 Install using:
 ```bash
