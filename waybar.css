@@ -1,2 +1,20 @@
-@define-color background #223845;
+@define-color background #121212;
 @define-color foreground #f5eafd;
+@define-color accent_orange #ffa502;
+@define-color accent_green #7bed9f;
+@define-color accent_blue #3a3a3a;
+@define-color accent_critical #ff5555;
+
+
+#battery.charging,
+#battery.plugged {
+  color: @accent_green;
+}
+
+#battery.warning:not(.charging) {
+  color: @accent_orange;
+}
+
+#battery.critical:not(.charging) {
+  color: @accent_critical;
+}
