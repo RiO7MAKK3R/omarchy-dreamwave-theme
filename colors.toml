@@ -1,0 +1,51 @@
+# Dreamwave palette for current Omarchy / Hyprland theming.
+# lighter_background drives the floating-layout titlebars (hyprbars).
+
+mode = "dark"
+
+accent = "#ca2cb0"
+selection = "#f5eafd"
+muted = "#8c53b7"
+
+background = "#0a0716"
+dark_background = "#060410"
+darker_background = "#030208"
+lighter_background = "#421a3d"
+
+foreground = "#f5eafd"
+dark_foreground = "#8c53b7"
+light_foreground = "#e37bd1"
+bright_foreground = "#f5eafd"
+
+red = "#a70b68"
+yellow = "#790aac"
+orange = "#ef6469"
+green = "#7f049e"
+cyan = "#c429b2"
+blue = "#ca2cb0"
+magenta = "#a604e9"
+brown = "#8c53b7"
+
+bright_red = "#f1279f"
+bright_yellow = "#b52af3"
+bright_green = "#c911f8"
+bright_cyan = "#ef6469"
+bright_blue = "#e37bd1"
+bright_magenta = "#cc58fc"
+
+color0 = "#0a0716"
+color1 = "#a70b68"
+color2 = "#7f049e"
+color3 = "#790aac"
+color4 = "#ca2cb0"
+color5 = "#a604e9"
+color6 = "#c429b2"
+color7 = "#f5eafd"
+color8 = "#8c53b7"
+color9 = "#f1279f"
+color10 = "#c911f8"
+color11 = "#b52af3"
+color12 = "#e37bd1"
+color13 = "#cc58fc"
+color14 = "#ef6469"
+color15 = "#f5eafd"
